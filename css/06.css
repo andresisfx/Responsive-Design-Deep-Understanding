@@ -1,0 +1,22 @@
+
+/*? recursos para media queries standard https://css-tricks.com/snippets/css/media-queries-for-standard-devices*/
+
+@media (min-width: 586px) {/** standar para dispositivos móviles */
+
+    
+}
+
+@media (min-width: 768px) {/** standar para tablets */
+
+    
+}
+@media (min-width: 992px) {/** standar para laptops */
+    
+}
+
+@media (min-width: 1200px) {/** standar para desktops */
+    
+}
+@media (min-width: 1600px) {/** standar para monitores grandes */
+    
+}
