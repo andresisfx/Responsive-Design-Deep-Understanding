@@ -1,0 +1,8 @@
+
+/**con esto logramos que la imagen se adapte al contenedor y sea responsive**/
+img{
+    max-width: 100%;
+    
+    display: block; /** elimina el espacio debajo de la imagen **/
+   
+}
